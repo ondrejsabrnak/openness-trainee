@@ -8,18 +8,18 @@ First, I created a simple Flask application using Skeleton.
 #### Here is the app structure:
 
 ```
-app
-│   main.py
+📦 app
+│   📜 main.py
 │
-└─── static
-│   └─── css
-│       │   normalize.css
-│       │   skeleton.css
-│   └─── images
-│       │   celebration.gif
+└─── 📂 static
+│   └─── 📂 css
+│       │   📜 normalize.css
+│       │   📜 skeleton.css
+│   └─── 📂 images
+│       │   📜 celebration.gif
 │
-└─── templates
-    │   index.html
+└─── 📂 templates
+    │   📜 index.html
 ```
 
 #### Main.py

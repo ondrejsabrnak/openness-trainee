@@ -38,7 +38,7 @@ def hello():
 ## Docker
 Then I created a Dockerfile.
 
-```docker
+```dockerfile
 FROM python:3.8
 
 WORKDIR /app

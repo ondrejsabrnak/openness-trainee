@@ -4,7 +4,7 @@ In this document, I describe how I proceeded in solving the assigned task.
 
 ## Flask App
 
-First, I created a simple Flask application using Skeleton. 
+First, I created a simple Flask application using [Skeleton](http://getskeleton.com). 
 #### Here is the app structure:
 
 ```
